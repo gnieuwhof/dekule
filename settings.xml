@@ -2,100 +2,100 @@
 <SettingsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product1>
     <Name>Fristi</Name>
-    <UpRatio>6</UpRatio>
-    <DownRatio>7</DownRatio>
-    <MinPrice>8</MinPrice>
-    <MaxPrice>9</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product1>
   <Product2>
     <Name>Wicky</Name>
-    <UpRatio>1</UpRatio>
-    <DownRatio>1</DownRatio>
-    <MinPrice>2</MinPrice>
-    <MaxPrice>3</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product2>
   <Product3>
     <Name>Chocomel</Name>
-    <UpRatio>6</UpRatio>
-    <DownRatio>7</DownRatio>
-    <MinPrice>6</MinPrice>
-    <MaxPrice>7</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product3>
   <Product4>
     <Name>Yogho! Yogho!</Name>
-    <UpRatio>2</UpRatio>
-    <DownRatio>2</DownRatio>
-    <MinPrice>2</MinPrice>
-    <MaxPrice>9</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product4>
   <Product5>
     <Name>Ranja</Name>
-    <UpRatio>3</UpRatio>
+    <UpRatio>4</UpRatio>
     <DownRatio>3</DownRatio>
     <MinPrice>1</MinPrice>
-    <MaxPrice>4</MaxPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product5>
   <Product6>
     <Name>Fruit Shoot</Name>
-    <UpRatio>5</UpRatio>
-    <DownRatio>6</DownRatio>
-    <MinPrice>7</MinPrice>
-    <MaxPrice>8</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product6>
   <Product7>
     <Name>Roosvicee</Name>
-    <UpRatio>6</UpRatio>
-    <DownRatio>6</DownRatio>
-    <MinPrice>6</MinPrice>
-    <MaxPrice>8</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product7>
   <Product8>
     <Name>Capri-Sonne</Name>
-    <UpRatio>1</UpRatio>
-    <DownRatio>2</DownRatio>
-    <MinPrice>3</MinPrice>
-    <MaxPrice>4</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product8>
   <Product9>
     <Name>Cool Bear</Name>
-    <UpRatio>2</UpRatio>
+    <UpRatio>4</UpRatio>
     <DownRatio>3</DownRatio>
-    <MinPrice>4</MinPrice>
-    <MaxPrice>5</MaxPrice>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product9>
   <Product10>
     <Name>Kinder Cola</Name>
-    <UpRatio>0</UpRatio>
-    <DownRatio>0</DownRatio>
-    <MinPrice>0</MinPrice>
-    <MaxPrice>9</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product10>
   <Product11>
     <Name>Taksi</Name>
-    <UpRatio>1</UpRatio>
-    <DownRatio>1</DownRatio>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
     <MinPrice>1</MinPrice>
-    <MaxPrice>1</MaxPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product11>
   <Product12>
     <Name>Djoezz!</Name>
-    <UpRatio>8</UpRatio>
-    <DownRatio>8</DownRatio>
-    <MinPrice>8</MinPrice>
-    <MaxPrice>8</MaxPrice>
+    <UpRatio>4</UpRatio>
+    <DownRatio>3</DownRatio>
+    <MinPrice>1</MinPrice>
+    <MaxPrice>2</MaxPrice>
     <Enabled>true</Enabled>
   </Product12>
-  <FooterB>Footer B 121242345365646657658679</FooterB>
-  <FooterD>Footer D    !@#%$%&amp;$%%()</FooterD>
+  <FooterB>Investeren in goud of stenen... 598</FooterB>
+  <FooterD>Crypto en BitCoin 578</FooterD>
 </SettingsObject>
